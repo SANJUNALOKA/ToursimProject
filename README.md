@@ -1,2 +1,2 @@
 # ToursimProject
-A Telangana Tourism website using html css and javascript
+The Telangana Tourism Guide is a dynamic and user-friendly website aimed at enhancing the tourism experience in Telangana by providing detailed information about tourist destinations based on seasonality and budget considerations. This platform will serve as an essential tool for travellers seeking to explore Telangana's diverse attractions, offering insights into each location's unique features, activities, accommodations, and transportation options.
